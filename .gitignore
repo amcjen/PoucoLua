@@ -1,0 +1,8 @@
+*.vcxproj
+*.vcxproj.*
+*.lst
+*.exe
+*.dll
+*.sdf
+*.sln
+*.suo
