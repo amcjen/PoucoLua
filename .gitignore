@@ -6,3 +6,4 @@
 *.sdf
 *.sln
 *.suo
+.DS_Store
